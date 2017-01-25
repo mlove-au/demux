@@ -240,3 +240,11 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+# Objects and libs
+*.o 
+*.a
+
+# Doxygen outout
+html/*
+latex/*
